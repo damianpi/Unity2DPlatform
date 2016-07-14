@@ -2,6 +2,13 @@
 
 2D platform made with Unity Engine. It was created as a university project, but looks good. It was created using free assets (sprites, animations, music), together with a few of my scripts + a lot of work to make everything work together. 
 
+
+## How to play
+This project includes a BuiltGameWindows folder with a .zip archive. After extracting, you can start the game using the .exe file.|
+---------------------------------------
+
+
+
 The game offers:
 * 2 main levels (+1 menu scene),
 * Collectibles:
@@ -11,6 +18,7 @@ The game offers:
 * Secrets on every level - stars and coins which together are worth 60 points, 2 hearts,
 * Teleports giving you access to normally unreachable areas.
 * Spikes, water (Lvl 1) or ground (Lvl 2) decrease the number of your lives.
+
 
 ![PlatformPic1](https://raw.github.com/damianpi/Unity2DPlatform/master/Screenshots/PlatformPic1.png)
 ![PlatformPic2](https://raw.github.com/damianpi/Unity2DPlatform/master/Screenshots/PlatformPic2.png)
